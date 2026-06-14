@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f3f2f1;
+  --foreground: #242424;
+  --ms-blue: #0078d4;
+  --ms-gray-10: #faf9f8;
+  --ms-gray-20: #f3f2f1;
+  --ms-gray-30: #edebe9;
+  --ms-gray-90: #242424;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: "Segoe UI", "Segoe UI Web (West European)", -apple-system,
+    BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Segoe UI", "Segoe UI Web (West European)", -apple-system,
+    BlinkMacSystemFont, system-ui, sans-serif;
+}
