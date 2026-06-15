@@ -4,6 +4,16 @@
 
 Turn rough product ideas into structured discovery artifacts—requirements, user stories, MVP scope, risks, and deferrals—in minutes instead of days.
 
+## Screenshots
+
+### Input screen
+
+![Input screen — product idea and business goal](public/screenshots/screenshot-01-input.png)
+
+### Generated discovery output
+
+![Generated discovery output — discovery questions, requirements, user stories, MVP scope, risks, and deferrals](public/screenshots/screenshot-02-output.png)
+
 ---
 
 ## Problem Statement
